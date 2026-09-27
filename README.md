@@ -1,38 +1,25 @@
-# Edson Souza Leite · EddY Digital Solutions
+# Edson Souza Leite
 
 **Vá Além do Óbvio**
 
-Consultor em operação, dados, automação e criação digital.
+Portfólio — operação, dados, automação e criação digital.
 
 ## Online
 
-Ative GitHub Pages: Settings → Pages → branch `main` → `/ (root)`
+1. Ative **Settings → Pages → main → / (root)**
+2. Suba as fotos (obrigatório para o hero dual):
+   - `assets/edson.jpg`
+   - `assets/sistema.jpg`
 
-**https://srdarth.github.io/edson-souza-leite/**
+URL: https://srdarth.github.io/edson-souza-leite/
 
 ## Contato
 
-- **E-mail:** eddy.digital.solutions@gmail.com
-- **WhatsApp:** (12) 99653-2056
-- **Linktree:** https://linktr.ee/EddyDigitalSolutions
-- **LinkedIn:** https://www.linkedin.com/in/edson-91-eddy/
-- **GitHub:** https://github.com/Srdarth
+- eddy.digital.solutions@gmail.com
+- WhatsApp: (12) 99653-2056
 
-## Serviços
+## Links
 
-Diagnóstico e organização digital · Automação (Python/SQLite) · Avatares e identidade visual · Presença multiplataforma · Formação prática em Python · Consultoria de operação
-
-## Links de portfólio e freela
-
-| Canal | URL |
-|-------|-----|
-| Fiverr | https://br.fiverr.com/s/od8Zryb |
-| Behance | https://www.behance.net/EddyDigitalSolutions |
-| ArtStation | https://eddy_digital_solutions.artstation.com/ |
-| Freelancer | https://www.br.freelancer.com/u/EddysLeite |
-| Pinterest | https://br.pinterest.com/EddyDigitalSolutions/ |
-| X | https://x.com/eddysleite |
-
----
-
-EddY Digital Solutions
+- Linktree: https://linktr.ee/EddyDigitalSolutions
+- Fiverr: https://br.fiverr.com/s/od8Zryb
+- GitHub: https://github.com/Srdarth
